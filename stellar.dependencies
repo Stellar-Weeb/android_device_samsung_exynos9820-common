@@ -1,0 +1,22 @@
+[
+    {
+        "repository": "LineageOSandroid_device_samsung_slsi_sepolicy",
+        "target_path": "device/samsung_slsi/sepolicy"
+    },
+    {
+        "repository": "LineageOSandroid_hardware_samsung",
+        "target_path": "hardware/samsung"
+    },
+    {
+        "repository": "LineageOS/android_hardware_samsung_nfc",
+        "target_path": "hardware/samsung/nfc"
+    },
+    {
+        "repository": "LineageOS/android_kernel_samsung_exynos9820",
+        "target_path": "kernel/samsung/exynos9820"
+    },
+    {
+        "repository": "TheMuppets/proprietary_vendor_samsung",
+        "target_path": "vendor/samsung"
+    }
+]
