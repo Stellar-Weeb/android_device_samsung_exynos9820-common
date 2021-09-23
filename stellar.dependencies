@@ -1,10 +1,10 @@
 [
     {
-        "repository": "LineageOSandroid_device_samsung_slsi_sepolicy",
+        "repository": "LineageOS/android_device_samsung_slsi_sepolicy",
         "target_path": "device/samsung_slsi/sepolicy"
     },
     {
-        "repository": "LineageOSandroid_hardware_samsung",
+        "repository": "LineageOS/android_hardware_samsung",
         "target_path": "hardware/samsung"
     },
     {
